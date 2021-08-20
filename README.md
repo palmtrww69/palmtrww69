@@ -8,10 +8,12 @@
 
 # 🎮Programs I Use
 - Python
+- PHP
 - Java
 - Visual Studio Code
 - IntelliJ IDEA
 - Eclipse
+
 
 # 📊Stats
 ![palmtrww69 stats](https://github-readme-stats.vercel.app/api?username=palmtrww69&count_private=true&theme=radical&layout=compact)
