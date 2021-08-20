@@ -14,6 +14,6 @@
 - Eclipse
 
 # 📊Stats
-![palmtrww69 stats](https://github-readme-stats.vercel.app/api?username=palmtrww69&count_private=true)
+![palmtrww69 stats](https://github-readme-stats.vercel.app/api?username=palmtrww69&count_private=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=palmtrww69)](https://github.com/anuraghazra/github-readme-stats)
