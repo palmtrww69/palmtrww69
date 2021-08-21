@@ -1,7 +1,6 @@
 # palmtrww69
 
 # 👋About Me
-- 14 year old programmer 
 - Likes playing sports
 - Likes playing minecraft
 - Loves dogs
