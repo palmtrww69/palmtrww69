@@ -1,5 +1,8 @@
 # palmtrww69
 
+### Quick announcement
+Since discord.py development is dead, I will use hikari for bot development now on
+
 # 👋About Me
 - Likes playing sports
 - Likes playing minecraft
